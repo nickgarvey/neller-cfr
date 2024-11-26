@@ -1,0 +1,5 @@
+.env
+.vscode
+# any directory with .pytest_cache
+**/.pytest_cache
+**/__pycache__
